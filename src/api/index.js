@@ -2,13 +2,13 @@ const {create,defaults,router } = require ("json-server");
 const path = require("path");
 
 const server = create();
-const apiEndpoints = router(
-require(path.join(__dirname,"..","data", "db.json"))
-);
+const apiEndpoints = router(path.join(__dirname,"..","data", "db.json"), {
+foreignKeySuffix: "_id"
+});
 
-const middleware = defaults();
+const middlewares = defaults();
 
-server.use(middleware);
+server.use(middlewares);
 server.use(apiEndpoints);
 
 module.exports = { server, apiEndpoints };

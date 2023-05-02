@@ -4,30 +4,34 @@
     "description": "backend para estudos de servidor de dados ",
     "main": "index.js",
     "scripts": {
-      "start": "nodemon index.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/anakarolneves/backend-estudo.git"
+        "type": "git",
+        "url": "git+https://github.com/anakarolneves/backend-estudo.git"
     },
     "keywords": [
-      "backend",
-      "server",
-      "node",
-      "express",
-      "json-server"
+        "backend",
+        "server",
+        "node",
+        "express",
+        "json-server"
     ],
     "author": "Ana Karoliny",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/anakarolneves/backend-estudo/issues"
+        "url": "https://github.com/anakarolneves/backend-estudo/issues"
     },
     "homepage": "https://github.com/anakarolneves/backend-estudo#readme",
     "dependencies": {
-      "express": "^4.18.2",
-      "json-server": "^0.17.2",
-      "nodemon": "^2.0.20"
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "json-server": "^0.17.2",
+        "jsonwebtoken": "^9.0.0",
+        "multer": "^1.4.5-lts.1",
+        "nodemailer": "^6.9.1",
+        "nodemon": "^2.0.20",
+        "yup": "^1.1.1"
     }
-  }
-  
+}

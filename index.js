@@ -1,15 +1,16 @@
-const express = require('express')
-const { server: api} = require("./src/api/index");
+const express = require("express");
+const cors = require("cors");
+const {server: api} = require ("./src/api/index");
+const { routes } = require ("./src/routes/index");
 
-const app = express()
-const port = 3000
+const app = express();
+const port = process.env.port || 8080;
 
-app.get('/', (req, res) => {
-  res.send('Projeto para desenvolver o TCC')
-})
-
+app.use(cors());
+app.use(express.json());
+//app.use(routes);
 app.use("/api", api);
 
 app.listen(port, () => {
-  console.log(`Servidor na porta: ${port} ${new Date()}`)
-})
+  console.log(`O sevidor está funcionando na porta  ${port}`);
+});
