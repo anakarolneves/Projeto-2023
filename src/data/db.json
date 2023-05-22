@@ -120,6 +120,7 @@
     "id": 1,
     "col_nome": "Ciro",
     "col_email": "cjarman0@noaa.gov",
+    "col_emailconfirmado": "",
     "col_senha": "Tz6HSgwqdsW",
     "col_CPF": "3484633735",
     "col_nivel":"colaborador",
@@ -132,6 +133,7 @@
     "id": 2,
     "col_nome": "Shalom",
     "col_email": "shartly1@statcounter.com",
+    "col_emailconfirmado": "",
     "col_senha": "Zz4VqZT35mNP",
     "col_CPF": "3102217125",
     "col_nivel":"colaborador",
@@ -144,6 +146,7 @@
     "id": 3,
     "col_nome": "Lesya",
     "col_email": "lmathes2@pbs.org",
+    "col_emailconfirmado": "",
     "col_senha": "Ml0ulZHWLK",
     "col_CPF": "8189871935",
     "col_nivel":"colaborador",
@@ -156,6 +159,7 @@
     "id": 4,
     "col_nome": "Gerta",
     "col_email": "gassel3@noaa.gov",
+    "col_emailconfirmado": "",
     "col_senha": "iHVvE1m4",
     "col_CPF": "8352612166",
     "col_nivel":"colaborador",
@@ -168,6 +172,7 @@
     "id": 5,
     "col_nome": "Linette",
     "col_email": "ldooler4@huffingtonpost.com",
+    "col_emailconfirmado": "",
     "col_senha": "NTA58i15Yp",
     "col_CPF": "3592560816",
     "col_nivel":"colaborador",
@@ -180,6 +185,7 @@
     "id": 6,
     "col_nome": "Sonni",
     "col_email": "sastbury5@lulu.com",
+    "col_emailconfirmado": "",
     "col_senha": "2E12lrhPRfcs",
     "col_CPF": "0411216155",
     "col_nivel":"colaborador",
@@ -192,6 +198,7 @@
     "id": 7,
     "col_nome": "Graeme",
     "col_email": "gedwin6@cnet.com",
+    "col_emailconfirmado": "",
     "col_senha": "03IsQSF0",
     "col_CPF": "1964486270",
     "col_nivel":"colaborador",
@@ -204,6 +211,7 @@
     "id": 8,
     "col_nome": "Lorelle",
     "col_email": "lskewes7@trellian.com",
+    "col_emailconfirmado": "",
     "col_senha": "DWNwK76",
     "col_CPF": "7889422865",
     "col_nivel":"colaborador",
@@ -216,6 +224,7 @@
     "id": 9,
     "col_nome": "Klarika",
     "col_email": "kloveday8@foxnews.com",
+    "col_emailconfirmado": "",
     "col_senha": "O8jG0fb4KBaD",
     "col_CPF": "9101683969",
     "col_nivel":"colaborador",
@@ -228,6 +237,7 @@
     "id": 10,
     "col_nome": "Yetta",
     "col_email": "yannatt9@linkedin.com",
+    "col_emailconfirmado": "",
     "col_senha": "SnJX7nhp7R5",
     "col_CPF": "4038605132",
     "col_nivel":"colaborador",
@@ -433,7 +443,7 @@
 
 
 
-    "adocoes":[{
+   "adocoes":[{
       "id": 1,
       "ado_praquem": "Ambros",
       "ado_data": "11/5/2022",
@@ -493,68 +503,4 @@
       "ado_data": "6/29/2022",
       "ado_contato": "949-658-0214",
       "animais_id": 10
-    }],
-
-
-    "chats":[{
-      "id": 1,
-      " cha_texto": "Prentice",
-      "cha_datahora": "15/1/2023",
-      "colaboradores_id": 1,
-      "empresas_id": 1
-    }, {
-      "id": 2,
-      " cha_texto": "Upton",
-      "cha_datahora": "3/5/2022",
-      "colaboradores_id": 2,
-      "empresas_id": 2
-    }, {
-      "id": 3,
-      " cha_texto": "Lorena",
-      "cha_datahora": "8/1/2023",
-      "colaboradores_id": 3,
-      "empresas_id": 3
-    }, {
-      "id": 4,
-      " cha_texto": "Jemie",
-      "cha_datahora": "1/12/2022",
-      "colaboradores_id": 4,
-      "empresas_id": 4
-    }, {
-      "id": 5,
-      " cha_texto": "Xenia",
-      "cha_datahora": "12/8/2022",
-      "colaboradores_id": 5,
-      "empresas_id": 5
-    }, {
-      "id": 6,
-      " cha_texto": "Morrie",
-      "cha_datahora": "4/8/2022",
-      "colaboradores_id": 6,
-      "empresas_id": 6
-    }, {
-      "id": 7,
-      " cha_texto": "Lawrence",
-      "cha_datahora": "22/9/2022",
-      "colaboradores_id": 7,
-      "empresas_id": 7
-    }, {
-      "id": 8,
-      " cha_texto": "Jasun",
-      "cha_datahora": "23/4/2022",
-      "colaboradores_id": 8,
-      "empresas_id": 8
-    }, {
-      "id": 9,
-      " cha_texto": "Chariot",
-      "cha_datahora": "17/5/2022",
-      "colaboradores_id": 9,
-      "empresas_id": 9
-    }, {
-      "id": 10,
-      " cha_texto": "Nikolia",
-      "cha_datahora": "17/11/2022",
-      "colaboradores_id": 10,
-      "empresas_id": 10
-    }]
-    }
+    }]}
