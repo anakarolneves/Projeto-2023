@@ -2,7 +2,8 @@ const {object, string, mixed} = require ("yup");
 const{ apiEndpoints } = require ("../../api/index");
 const MailService = require ("../../services/mail");
 const fs=require("fs");
-const {upluadPhoto} = require ('../../config/upload')
+const {upluadPhoto} = require ('../../config/upload');
+const { error } = require("console");
 
 const criarChave = (n, r="")=>{
     while (n--){
@@ -134,6 +135,23 @@ class Colaboradores {
     .end();
     }
     
+    async auth (res,req,next){
+
+    try{
+      const{col_email, col_senha}=req.body
+    //   console.log(col_email,col_senha)
+      res.status(200).json({ok:"ok"})
+    }catch (error) {
+
+        let Colaboradores = await apiEndpoints.db.get("colaboradores").find({col_email}).cloneDeep().value()
+
+    res.status(400).json({error:error.message})
+    }
+
+    }
+    async ensureAuthenticated(res,req,next){
+    res.status(200).json({ok:"ok"})
+    }
 }
 
 module.exports = new Colaboradores();

@@ -4,9 +4,12 @@ const {storage, uploadFolder} = require("../config/upload");
 const multer = require ("multer");
 
 const Colaboradores = require ("../controllers/colaboradores/index");
+const colaboradores = require("../controllers/colaboradores/index");
 
 const routes = new Router();
 const upload = multer ({storage});
+
+
 
 routes.get("/", (req, res) => {
     res.send("Trabalho de TCC");
@@ -19,6 +22,11 @@ routes.put("/api/*", (req, res) => {
 routes.get("/api/db", (res,req) => {
     return res.status(404).end(http.STATUS_CODES[404]);
 });
+
+
+routes.post("api/auth", Colaboradores.auth )
+
+routes.use(colaboradores.ensureAuthenticated)
 
 routes.use("/files", expressStatic(uploadFolder));
 
