@@ -3,11 +3,11 @@ const {object, string, date} = require("yup");
 class Adocoes {
     async store(req, res, next) {
         let adocoesSchema = object({
-            ado_valor: string().required("Entre com o valor da doação "),
+            ado_valor: string().required("Entre com o valor da doação"),
             ado_forma: string().required("Qual a forma de doação"),
             ado_data: date().required("Entre com a data da doação")
-    
         })
+        
 
         req.body = {
             ...req.body,

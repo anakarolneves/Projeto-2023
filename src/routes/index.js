@@ -31,8 +31,8 @@ routes.use("/files", expressStatic(uploadFolder));
 routes.post("/api/Animal", Animal.store);
 routes.patch("/api/Animal/:id", Animal.update);
 
-routes.post("/api/Empresas", Empresas.store);
-routes.patch("/api/Empresas/:id", Empresas.update);
+routes.post("/api/empresa", Empresas.store);
+routes.patch("/api/empresa/:id", Empresas.update);
 routes.get("/activate/:chave", Empresas.activate);
 routes.patch("/api/avatar/:id", upload.single ("avatar"), Empresas.uploadPhoto);
 

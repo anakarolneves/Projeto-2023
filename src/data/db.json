@@ -4,7 +4,7 @@
       "id": 1,
       "emp_nome": "Olympie",
       "emp_email": "omcphate0@wix.com",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "8598293423",
       "emp_cidade": "Mae Wang",
@@ -15,8 +15,8 @@
     {
       "id": 2,
       "emp_nome": "Cherilynn",
-      "emp_email": "cmarriage1@vkontakte.ru", 
-      "emp_senha":"u123",
+      "emp_email": "cmarriage1@vkontakte.ru",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "9285270816",
       "emp_cidade": "Livadiya",
@@ -28,7 +28,7 @@
       "id": 3,
       "emp_nome": "Gertruda",
       "emp_email": "gkeeley2@hatena.ne.jp",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "9308405860",
       "emp_cidade": "Usu",
@@ -40,7 +40,7 @@
       "id": 4,
       "emp_nome": "Nathanil",
       "emp_email": "ndriffe3@sphinn.com",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "2588928579",
       "emp_cidade": "Tabango",
@@ -52,7 +52,7 @@
       "id": 5,
       "emp_nome": "Sebastiano",
       "emp_email": "scalifornia4@sun.com",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "2290939471",
       "emp_cidade": "Nancheng",
@@ -64,7 +64,7 @@
       "id": 6,
       "emp_nome": "Martie",
       "emp_email": "mskechley5@accuweather.com",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "1902549473",
       "emp_cidade": "Antou",
@@ -76,7 +76,7 @@
       "id": 7,
       "emp_nome": "Ofelia",
       "emp_email": "obunson6@topsy.com",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "9742696756",
       "emp_cidade": "Tinaco",
@@ -88,7 +88,7 @@
       "id": 8,
       "emp_nome": "Becky",
       "emp_email": "blegion7@noaa.gov",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "4639982658",
       "emp_cidade": "Quankou",
@@ -100,7 +100,7 @@
       "id": 9,
       "emp_nome": "Ambur",
       "emp_email": "acroughan8@webnode.com",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "8549740950",
       "emp_cidade": "Praszka",
@@ -112,13 +112,79 @@
       "id": 10,
       "emp_nome": "Dun",
       "emp_email": "dcotterel9@webmd.com",
-      "emp_senha":"u123",
+      "emp_senha": "u123",
       "emp_emailconfirmado": true,
       "emp_CNPJ": "6871649115",
       "emp_cidade": "Halton",
       "emp_endeco": "PO Box 50006",
       "emp_telefone": "662-756-1850",
       "emp_foto": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAH+SURBVDjLdZI7aFRREIa/k3u5cclGwiXEF9GInSCIoF0qa1/BynJdyBYhtaRJSrsFK4XtBCGFQRALm4BYKQg2ti5JQEh2hay66ObMmbG49+4jSwYOc4rzfzP/nHFmBsCL6uWrwDfGo7PcaM5wQrjnjxduABvAnXJ6hkdr63TbnwGYmr3Fy/Un/O3+AngFbC03mq+HATGwdfv+g4ul8jT++1fMjNDrAmBmLF6bZ+LcFczs4fs3b+8CY4BLpfJpjn4fICo0N+tgBhht+4Ka4ff3ODV7ITFInHPOCt85ADRgIkzMnEWDYKb8aHf52fmHAbp/iNsTdlo9gJvOuQNg18w0BjBVVAT1PdT3wIxW65B7a++I4qTf7hKwIfKp0Wg8W1lZqTvndnOAoMFjprn37ERxgvceEUFE8N6TpimVSmU1jmNqtVp9IgMEVDwmHg0BDYppBnPOEUURURThnAMgSRKq1eoqMBcXAMRjQTFRVA2VDBBFUT9PTk7S6XQIIZCm6WCIpllVFUUlYGpYCCMdFHfnHCIy8o3ZEH3ARDEJqIKKDbYthxQWitwHZNUzgOYWig6GIcdBgz0IhnrNZ1BY0PG9z4WFpQLw0R8dLU6dn8+EqphCybf6j4YWb6R6AXj6YXt7GrjeFwA7rR5LJ4gAQgh/gOCG6cfaXQDmODkCcPAfs2Qwc59hLO4AAAAASUVORK5CYII="
+    },
+    {
+      "emp_nome": "ana karoliny",
+      "emp_email": "nevesk@ana.com",
+      "emp_senha": "ALPG@123ak",
+      "id": 11
+    },
+    {
+      "emp_nome": "asdfasd fasdf",
+      "emp_email": "nevesk@ana.com",
+      "emp_senha": "ALPG@123ak",
+      "emp_telefone": "",
+      "emp_cpf": "",
+      "emp_foto": "",
+      "emp_chave": "v4UFrQ9SON",
+      "created_at": "2023-10-04T11:26:30.304Z",
+      "updated_at": "",
+      "id": 12
+    },
+    {
+      "emp_nome": "sdfsd sdfsdf",
+      "emp_email": "nevesk@ana.com",
+      "emp_senha": "ALPG@123ak",
+      "emp_telefone": "",
+      "emp_cpf": "",
+      "emp_foto": "",
+      "emp_chave": "fds5cSBxSN",
+      "created_at": "2023-10-04T11:28:17.321Z",
+      "updated_at": "",
+      "id": 13
+    },
+    {
+      "emp_nome": "ana karol",
+      "emp_email": "nevesk701@gmail.com",
+      "emp_senha": "ALPG;>123@al",
+      "emp_telefone": "",
+      "emp_cpf": "",
+      "emp_foto": "",
+      "emp_chave": "BgclmSnKij",
+      "created_at": "2023-10-04T11:34:14.630Z",
+      "updated_at": "",
+      "id": 14
+    },
+    {
+      "emp_nome": "bianca rosa",
+      "emp_email": "bianca@rosa.com",
+      "emp_senha": "125AJak@",
+      "emp_telefone": "",
+      "emp_cpf": "",
+      "emp_foto": "",
+      "emp_chave": "fIw29s6WA1",
+      "created_at": "2023-10-04T11:51:54.779Z",
+      "updated_at": "",
+      "id": 15
+    },
+    {
+      "emp_nome": "joao pedro castro",
+      "emp_email": "joao@gmail.com",
+      "emp_senha": "ALPG@123ak",
+      "emp_telefone": "",
+      "emp_cpf": "",
+      "emp_foto": "",
+      "emp_chave": "o7e8xaBsMV",
+      "created_at": "2023-10-10T21:53:19.424Z",
+      "updated_at": "",
+      "id": 16
     }
   ],
   "colaboradores": [
@@ -180,7 +246,7 @@
     {
       "id": 7,
       "col_nome": "Graeme",
-      "col_email": "gedwin6@cnet.com",      
+      "col_email": "gedwin6@cnet.com",
       "col_CPF": "1964486270",
       "col_funcao": "Banho e tosa",
       "col_dataentrada": "3/12/2023",
@@ -191,7 +257,7 @@
     {
       "id": 8,
       "col_nome": "Lorelle",
-      "col_email": "lskewes7@trellian.com",      
+      "col_email": "lskewes7@trellian.com",
       "col_CPF": "7889422865",
       "col_funcao": "Conselheiros",
       "col_dataentrada": "3/7/2023",
@@ -220,6 +286,30 @@
       "col_telefone": "908-914-5688",
       "empresa_id": 10,
       "col_foto": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHrSURBVDjLjZOxaxNhGIcTtRkUJ/8AB9FBHBT8U3ToLAouxkUQLEIVnRxcKiithIjBBsSgRLgMGlNjvSOh4XJ4XLhwIRwpd+a4L1xMjEMfhy+aS6W2w2/4Pngefry8bwJI7EoSOAykaHdOTt+JvTL/UY+SNAYXML1POO4OnS5YLTCtMYb5FcO8j26cR7MX0OyFeYE2OkQjuESrBWEI4wmMxjAcgRiAH4Bu7GBaUDcFm5YzL9gcnaHdAUUBVQXPk4JoCCKSklDI+AG8Lv2YF5QbJepbEgiFBIYjGMTgQEAQQj+A/BtmAk2k0JoTKhtQrYJtQxTJhH/gEPpT2O9DLh8TbHQu0zRkZSHAdiQsdsF+AF4fPB9e5GKCiv6ZwluoVOTUe9sSjlf2+xJ2t8GyYTUTE+i2J4EQnA7UahKIV/Z8KS8W4eG6zlJGnQm+OB+wTDl5MeCvLF65aUC2AFfyadL5s9wpnJ4JitYpsrW7vKyqFNTvKLUh7rRy14V3H2EpMyG9tsj1anKvTUwCR2gExylZy1jfwO1BuQy3159xtXh0/1WGBO+7F6lqv3B70NDhwast0qVzB7sFxTmGYj3HNOWkH61G3MovHvyYFP0EiuZgt+Hx05/cyC7/D/5XkLNSrKg3ufcErq2t7AcDid88lUyCVhHVfwAAAABJRU5ErkJggg=="
+    },
+    {
+      "emp_nome": "ana karoliny",
+      "emp_email": "nevesk701@gmail",
+      "emp_senha": "124@@ASass",
+      "id": 11
+    },
+    {
+      "col_nome": "ana karoliny",
+      "col_email": "nevesk701@gmail.com",
+      "col_CPF": "12345678912",
+      "col_funcao": "limpeza",
+      "col_dataentrada": "11122005",
+      "col_tele": "18996839860",
+      "id": 12
+    },
+    {
+      "col_nome": "ana karoliny dos santos neves",
+      "col_email": "nevesk701@gmail.com",
+      "col_CPF": "12345678912",
+      "col_funcao": "limpeza",
+      "col_dataentrada": "11122005",
+      "col_tele": "18996839860",
+      "id": 13
     }
   ],
   "doacoes": [
@@ -292,6 +382,12 @@
       "doa_forma": "Dinheiro",
       "doa_data": "8/5/2022",
       "empresa_id": 10
+    },
+    {
+      "doa_forma": "pix",
+      "doa_valor": "R$10,00",
+      "doa_data": "10/10/2022",
+      "id": 11
     }
   ],
   "animais": [
@@ -424,6 +520,17 @@
       "empresa_id": 10,
       "ani_dataentrada": "31/12/2023",
       "ani_foto": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIpSURBVDjLpZNPSFRRFMZ/749/Kt3IqFTSRoSMmrGIYTTbpEJtjBCCok1Em9JVG1dRC8FFEES5aGFEgRRZWq1iLKKxBiNqLDcltQgmHR9hY6LOu+feFm+YGVsZXbh8nHO53/nud8+xjDH8z3IB7r5avGgMZ8XoBq01okFpjYhGtEGJLtmCKINo/XbgVFPUBdDG9PVEq0P/UvnSvdlwQYFoHQIY/3obpRVKFL5W+OIXUVThrL91AN+XihKCwIeTu85sqPryqsJXUvRARAMwkshsiKB7fw25UgKVJwA40V7H/cl5jh+oL+RGk/P0xIqxl11dr8AXjTYG14HRNxkcx+ZhMoNlg52/ND6VAWMoc6F5+2Zy/l9PMIDrWByL1jI+tcDRaN06BaXxbDqLUnq9AqPBteHpuwUcJ0AIcgBXH93h+/wEyyuLrPk5cmv7gNY8gdIYYyhz4PDeWuIpj85IsS2ujQ2zJAk6DkZpqGnixcwYyU+PifUOX7Eh6DoAx7aIpzwA4imPeMrj+bTH+88PaNkZQWwhsrULsXxie9oAzgcESgUe2NAZCeE6AXZGQhwKh/Cyc5RZVXQ39wFwoeMmjXVhgMqiB8awe0cVP36u0Fi/iW9zvwuzkF3+xUz6Nal0gv6uWww+O02lUwGwmv8FM3l55EtLTvQWXwm+EkRpfNEoUZRXHCE5PUFbuJ0nH4cot1wSH14C3LA2Os6x3m2DwDmgGlgChpLX0/1/AIu8MA7WsWBMAAAAAElFTkSuQmCC"
+    },
+    {
+      "ani_porte": "Pequeno",
+      "ani_raca": "",
+      "ani_idade": "2",
+      "ani_catracao": "Não",
+      "ani_sexo": "Macho",
+      "ani_observacao": "",
+      "ani_vacinas": "",
+      "ani_entrada": "12/02/2001",
+      "id": 11
     }
   ],
   "adocoes": [
